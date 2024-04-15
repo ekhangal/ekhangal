@@ -22,20 +22,11 @@ interests:
   - cybersecurity
   - programming
 technologies:
-  container:
-    - Kubernetes
-    - GitOps
-  iac:
-    - Terraform
-  scripting:
-    - Python
-    - Bash
-  cloud:
-    - AWS
-    - GCP
-  ci/cd:
-    - GitLab CI/CD
-    - GitHub Actions
+  - container: Kubernetes, GitOps
+  - iac: Terraform
+  - scripting: Python, Bash
+  - cloud: AWS, GCP
+  - ci/cd: GitLab CI/CD, GitHub Actions
 links:
   linkedin: https://linkedin.com/in/khangal-enkhsaikhan
   homePage: https://khangal.me/about
