@@ -4,13 +4,13 @@ personal:
   lastName: Enkhsaikhan
   age: 21
 education:
-  - university: MUST
+  - university: Mongolian University of Science and Technology
     degree: bachelor
     startedAt: 2020
     endedAt: 2024
 career:
   - company: AND Systems Tech LLC
-    position: Site Reliabiliti Engineer
+    position: Site Reliability Engineer
     startedAt: October 2022
     endedAt: September 2023
   - company: Zero Technology LLC
