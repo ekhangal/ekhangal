@@ -17,7 +17,7 @@ career:
   - company: Zero Technology LLC
     position: System Administrator
     startedAt: October 2023
-    endedAt: null
+    endedAt: February 2025
 interests:
   - devops
   - cybersecurity
