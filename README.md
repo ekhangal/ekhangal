@@ -18,6 +18,10 @@ career:
     position: System Administrator
     startedAt: October 2023
     endedAt: February 2025
+  - company: MNCERT/CC
+    position: Cyber Security Analyst
+    startedAt: February 2025
+    endedAt: null
 interests:
   - devops
   - cybersecurity
